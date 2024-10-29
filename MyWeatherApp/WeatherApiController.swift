@@ -14,7 +14,7 @@ class WeatherService {
     private init() {
     }
     
-    private let apiKey = "VTUKF8JVY34FKZR22C3FJQ6RR"
+    private let apiKey = "apiKey"
     
     enum WeatherError: Error {
         case invalidURL
